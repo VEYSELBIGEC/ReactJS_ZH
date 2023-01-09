@@ -10,6 +10,7 @@ import Jsx5 from "./components/03-jsx/jsx5";
 import JsxPractise from "./components/03-jsx/jsx-practise";
 import Style1 from "./components/04-styles/style1";
 import Style2 from "./components/04-styles/style2";
+import Style3 from "./components/04-styles/style3";
 
 function App() {
   return (
@@ -23,9 +24,10 @@ function App() {
       <Jsx5/>
       <JsxPractise/>
       <Style1/>
+      <Style2/>
        */}
-       <Style2/>
-       
+       <Style3/>
+
     </div>
   );
 }
