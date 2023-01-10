@@ -6,7 +6,7 @@ const Style3 = () => {
     <div className='section-react'>
     <h3>React State Management</h3>
     <ul>
-        <li>Creating State</li>
+        <li><a href="#">Creating State</a></li>
         <li>Updating State</li>
         <li>Using State</li>
     </ul>
