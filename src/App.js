@@ -13,6 +13,7 @@ import Style2 from "./components/04-styles/style2";
 import Style3 from "./components/04-styles/style3";
 import Clock1 from "./components/05-clock1/clock1";
 import Greetings from "./components/06-props/greetings";
+import Clock2 from "./components/07-clock2/clock2";
 
 function App() {
   return (
@@ -29,8 +30,11 @@ function App() {
       <Style2/>
       <Style3/>
       <Clock1 />
+      <Greetings/>
        */}
-       <Greetings/>
+       
+       <Clock2/>
+      
    
     </div>
   );
