@@ -24,9 +24,14 @@ const Clock2 = (props) => {
         message="Night";
     }
 
+    const clockStyle = {
+      color: props.textColor,
+      backgroundColor: props.bgColor,
+    }
+
 
   return (
-    <div className="clock-container">
+    <div className="clock-container" style={clockStyle}>
       <div className="time">{timeStr}</div>
       <div>
         <div className="date">{dateStr}</div>

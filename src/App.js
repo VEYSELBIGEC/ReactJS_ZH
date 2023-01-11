@@ -33,7 +33,7 @@ function App() {
       <Greetings/>
        */}
        
-       <Clock2/>
+       <Clock2 textColor="white" bgColor="red"/>
       
    
     </div>
