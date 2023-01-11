@@ -1,7 +1,14 @@
 import React from "react";
 import "./clock1.scss";
+import moment from "moment";
 
 const Clock1 = () => {
+
+
+
+  const dateTime = moment();
+
+
   return (
     <div className="clock-container">
       <div className="time">20:11</div>
