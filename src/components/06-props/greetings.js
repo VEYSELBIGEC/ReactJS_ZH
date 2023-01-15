@@ -16,3 +16,4 @@ export default Greetings
 
 // Not: string seklindeki propslar "" 'tirnak icinde gonderilir, onun haricindeki datalar, number, funtion vs. suslu parantez ile gonderilir 
 // mesela: <Welcome firstName="Veysel" lastName="BOY" age={45}/>
+// Read and delete ....

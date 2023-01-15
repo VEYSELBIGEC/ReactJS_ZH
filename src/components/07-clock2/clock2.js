@@ -29,7 +29,7 @@ const Clock2 = (props) => {
       backgroundColor: props.bgColor,
     }
 
-    // Keep going
+    // Keep going Read and delete .....
 
   return (
     <div className="clock-container" style={clockStyle}>
