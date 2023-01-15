@@ -29,6 +29,7 @@ const Clock2 = (props) => {
       backgroundColor: props.bgColor,
     }
 
+    // Keep going
 
   return (
     <div className="clock-container" style={clockStyle}>

@@ -34,6 +34,7 @@ function App() {
        */}
        
        <Clock2 textColor="white" bgColor="red"/>
+       <Clock2/>
       
    
     </div>
