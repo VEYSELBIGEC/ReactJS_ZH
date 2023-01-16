@@ -1,4 +1,5 @@
 import React from "react";
+import "./gallery.scss" ;
 
 const ImageGallery = () => {
   const gallery = [
@@ -11,7 +12,7 @@ const ImageGallery = () => {
   ];
 
   return (
-    <div>
+    <div className="gallery">
       {gallery.map((image) => (
         <div>
           <img src={require(`../../assets/img/${image}`)} />
