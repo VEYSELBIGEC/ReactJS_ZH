@@ -14,7 +14,7 @@ const ImageGallery = () => {
     <div>
       {gallery.map((image) => (
         <div>
-          <img src={require(`assets/img/${image}`)} />
+          <img src={require(`../../assets/img/${image}`)} />
         </div>
       ))}
     </div>
