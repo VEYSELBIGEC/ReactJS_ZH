@@ -15,6 +15,7 @@ import Clock1 from "./components/05-clock1/clock1";
 import Greetings from "./components/06-props/greetings";
 import Clock2 from "./components/07-clock2/clock2";
 import Image1 from "./components/08-images/image1";
+import ImageGallery from "./components/08-images/image-gallery";
 
 
 function App() {
@@ -34,9 +35,12 @@ function App() {
       <Clock1 />
       <Greetings/>
       <Clock2 textColor="white" bgColor="red"/>
+      <Image1/>
+
        */}
        
-     <Image1/>
+       <ImageGallery/>
+     
        
        
       
