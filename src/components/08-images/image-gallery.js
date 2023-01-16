@@ -14,7 +14,7 @@ const ImageGallery = () => {
     <div>
       {gallery.map((image) => (
         <div>
-          <img src={image} />
+          <img src={`assets/img/${image}`} />
         </div>
       ))}
     </div>
