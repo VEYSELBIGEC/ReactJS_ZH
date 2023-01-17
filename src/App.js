@@ -36,10 +36,12 @@ function App() {
       <Greetings/>
       <Clock2 textColor="white" bgColor="red"/>
       <Image1/>
+      <ImageGallery/>
 
        */}
        
-       <ImageGallery/>
+       <Counter/>
+     
      
        
        
