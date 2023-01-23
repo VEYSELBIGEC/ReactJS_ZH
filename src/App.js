@@ -39,10 +39,11 @@ function App() {
       <Image1/>
       <ImageGallery/>
       <Counter/>
+      <Counter02/>
 
        */}
        
-       <Counter02/>
+      <Counter03/>
       
      
      
