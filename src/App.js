@@ -37,10 +37,11 @@ function App() {
       <Clock2 textColor="white" bgColor="red"/>
       <Image1/>
       <ImageGallery/>
+      <Counter/>
 
        */}
        
-       <Counter/>
+      
      
      
        
