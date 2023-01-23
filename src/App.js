@@ -16,6 +16,7 @@ import Greetings from "./components/06-props/greetings";
 import Clock2 from "./components/07-clock2/clock2";
 import Image1 from "./components/08-images/image1";
 import ImageGallery from "./components/08-images/image-gallery";
+import Counter02 from "./components/14-counter02/counter02";
 
 
 function App() {
@@ -41,6 +42,7 @@ function App() {
 
        */}
        
+       <Counter02/>
       
      
      
